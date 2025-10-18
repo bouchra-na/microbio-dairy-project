@@ -1,0 +1,4 @@
+SampleID,Date,Location,ProductType,TempAtSampling_C,DilutionFactor,Test,CFU_per_mL_or_g,pH,Notes
+S01,2025-10-01,LocalShopA,PasteurizedMilk,4,1e-3,TVC,1.2E4,6.7,good packaging
+S02,2025-10-02,LocalShopB,PasteurizedMilk,5,1e-2,TVC,4.5E5,6.8,slightly sour smell
+S03,2025-10-03,LocalShopC,Yogurt,4,1e-3,Coliform,5,4.4,normal
