@@ -1,8 +1,5 @@
 # Microbiological Analysis of Dairy Products
 
-### 🎓 Course
-3rd Year Licence — Food Science (Quality Control & Assurance)
-
 ---
 
 ### 📘 Project Description
