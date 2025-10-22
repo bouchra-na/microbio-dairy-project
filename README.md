@@ -8,10 +8,8 @@ This project aims to evaluate the microbiological and basic physicochemical qual
 ---
 
 ### 👩‍🔬 Group Members
-- Bouchra — GitHub: bouchraQA
-- Member 2 — GitHub: username2
-- Member 3 — GitHub: username3
-
+- Nasri Bouchra
+-groupe 1
 ---
 
 ### 🎯 Objectives
@@ -60,5 +58,6 @@ Header example:
 
 ---
 
-### 📨 Contact / Professor
-Professor: [Name] — GitHub: [username if available]
+### 📨 Contact / Professor Mebarki kaled 
+mebarkikaled-design 
+]
